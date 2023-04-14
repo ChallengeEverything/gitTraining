@@ -6,3 +6,4 @@ Hello Worldgit status!
 second string
 asdasdsadasdsad
 fourth string
+def function2():
